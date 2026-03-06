@@ -16,6 +16,15 @@
         "url": "https://github.com/ugudlado/lens.git"
       },
       "description": "A web dashboard to scan, browse, and edit all Claude Code configuration surfaces across all scope levels"
+    },
+    {
+      "name": "local-review",
+      "version": "1.0.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ugudlado/local-review.git"
+      },
+      "description": "Claude Code plugin for local code review with a browser UI."
     }
   ]
 }
