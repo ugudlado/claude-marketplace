@@ -24,7 +24,7 @@
         "source": "url",
         "url": "https://github.com/ugudlado/local-review.git"
       },
-      "description": "Claude Code plugin for local code review with a browser UI."
+      "description": "GitHub-style local code review with threaded comments. Claude can read review sessions, reply to threads, apply fixes, and resolve open questions."
     }
   ]
 }
