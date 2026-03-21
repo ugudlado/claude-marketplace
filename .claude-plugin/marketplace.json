@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "lens",
-      "version": "1.5.5",
+      "version": "1.5.6",
       "source": {
         "source": "url",
         "url": "https://github.com/ugudlado/lens.git"
