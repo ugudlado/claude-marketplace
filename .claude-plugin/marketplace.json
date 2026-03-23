@@ -25,6 +25,15 @@
         "url": "https://github.com/ugudlado/local-review.git"
       },
       "description": "GitHub-style local code review with threaded comments. Claude can read review sessions, reply to threads, apply fixes, and resolve open questions."
+    },
+    {
+      "name": "hooksmith",
+      "version": "1.0.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ugudlado/hooksmith.git"
+      },
+      "description": "Declarative YAML hook rules compiled to native Claude Code hooks. Supports regex, script, and prompt mechanisms with build-time validation."
     }
   ]
 }
