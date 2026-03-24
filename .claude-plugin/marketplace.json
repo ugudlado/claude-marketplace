@@ -19,7 +19,7 @@
     },
     {
       "name": "local-code-review",
-      "version": "2.0.6",
+      "version": "2.0.7",
       "source": {
         "source": "url",
         "url": "https://github.com/ugudlado/local-code-review.git"
