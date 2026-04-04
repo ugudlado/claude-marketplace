@@ -19,7 +19,7 @@
     },
     {
       "name": "hooksmith",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "source": {
         "source": "url",
         "url": "https://github.com/ugudlado/hooksmith.git"
